@@ -1,1 +1,2 @@
 Git is useful for version control and collaboration in software devleopment.
+Git branches are effectively a pointer to a snapshot of your changes
